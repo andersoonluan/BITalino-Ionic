@@ -12,4 +12,5 @@ This project has been test both in Ionic v3 and v4 (Windows and Mac) with iOS an
 
 ## Authors
 
-* **Anderson L. Rodrigues** - *Initial project* - [Linkedin](https://www.linkedin.com/in/andersoonrodrigues/)
+* **Anderson L. Rodrigues** - *Initial project* - [Linkedin Profile](https://www.linkedin.com/in/andersoonrodrigues/)
+* **Sandro José Rigo** - *Teacher* - [Linkedin Profile](https://www.linkedin.com/in/sandrojoserigo/)
